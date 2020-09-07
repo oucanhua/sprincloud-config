@@ -1,2 +1,2 @@
-name: config-dev.yml 
-value: 111111111
+config:
+    info: "随你便"
